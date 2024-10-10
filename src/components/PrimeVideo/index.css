@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.prime_video_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.website_logo {
+  background-size: cover;
+  width: 1280px;
+}
+.movie_slider_container {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.movie_genre_heading {
+  font-family: roboto;
+  font-size: 38px;
+  color: #ffffff;
+}

@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.slider-container {
+  padding: 60px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.trigger-button {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 30px;
+  height: 470px;
+  width: 800px;
+  border-radius: 20px;
+}
+
+.trigger_close_button {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+
+.movieCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
